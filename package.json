@@ -1,0 +1,31 @@
+{
+    "name": "nodejs-structure-generator",
+    "version": "1.0.0",
+    "description": "For making great nodejs api structure",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "bin": {
+        "nodejs-structure-generator": "index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Harsh-Dobariya/nodejs-structure-generator.git"
+    },
+    "keywords": [
+        "express",
+        "mvc",
+        "nodejs",
+        "mongoose",
+        "mongodb",
+        "express-generator",
+        "express-mvc-generator"
+    ],
+    "author": "Harsh Dobariya",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Harsh-Dobariya/nodejs-structure-generator/issues"
+    },
+    "homepage": "https://github.com/Harsh-Dobariya/nodejs-structure-generator#readme"
+}
